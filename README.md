@@ -1,2 +1,2 @@
 # suitetalk_auth
-Authenticating into NetSuite using python
+Authenticating(OAuth 1.0) into NetSuite using python
